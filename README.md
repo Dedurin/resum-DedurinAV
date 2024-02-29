@@ -46,6 +46,7 @@
   - Git![ сертификат](git.pdf)
   - Java![ сертификат](certificate.pdf)
   - Ручное тестирование веб-приложений![ сертификат](Manual.pdf)
+  - работы https://github.com/Dedurin?tab=repositories
 - Личные качества:
 - Внимательность
 - Умение работать в команде
