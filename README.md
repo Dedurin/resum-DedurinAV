@@ -43,6 +43,7 @@
   - Git
   - Java QA
 - Электронные сертификаты:
+  - https://github.com/Dedurin/Certificate/blob/main/Umnyy%20dom.%20Blok%203.%20Scenarii.png
   - Git![ сертификат](git.pdf)
   - Java![ сертификат](certificate.pdf)
   - Ручное тестирование веб-приложений![ сертификат](Manual.pdf)
